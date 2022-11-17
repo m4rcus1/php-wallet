@@ -1,0 +1,22 @@
+body{
+    background-color: #8CC0DE;
+    font-family: sans-serif;
+
+}
+table { width: 500px;
+    height: 400px;
+    border-collapse: collapse;
+    background-color:#DAEAF1;
+    text-align: center;
+    margin-top:20px;
+}
+table, td {
+
+     border: 1px solid black
+     ;}
+th { 
+    padding: 15px;}
+    h1{
+        display: inline-block;
+        color: rgb(14, 13, 13);
+    }

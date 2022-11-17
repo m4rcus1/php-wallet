@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, rgb(132, 234, 252), rgb(123, 115, 234));
+}
+td,th{
+    margin-left:10px;
+    padding-left:10px;
+    text-align: center;
+}
+.navbar-brand img{
+    width:60px;
+}
+
+.main img{
+width: 1500px;
+margin-bottom:auto ;
+}

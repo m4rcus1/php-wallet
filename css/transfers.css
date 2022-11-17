@@ -1,0 +1,27 @@
+body{
+    background-color: #92B4EC;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.transfers{
+    border-radius: 3px;
+    background-color: #DBDFFD;
+    text-align:center;
+    color: black;
+    box-shadow: 30px 20px #3e8ebc;
+    margin-top: 5%;
+    width: 60%;
+    margin-left: 20%;
+
+}
+.transferimg img{
+    width:300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}

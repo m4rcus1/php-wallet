@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right, rgb(39, 161, 59), rgb(38, 89, 156));
+}
+form{
+    width: 600px; 
+    height: 200px; 
+    border-radius: 5px;
+    background-color:#32bbc5;
+    text-align:center;
+    color: rgb(70, 163, 33);
+    box-shadow: 20px 20px;
+    margin-top: 13%;
+}
+

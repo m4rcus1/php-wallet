@@ -1,0 +1,29 @@
+		body {
+			background: linear-gradient(to right, rgb(132, 234, 252), rgb(123, 115, 234));
+			margin: 10% 20%;
+			
+		}
+		
+		#image1 {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		#main {
+			margin-top: 10px;
+			width: 450px;
+			margin: 0 auto;
+		}
+
+		button {
+			margin: 0 50%;
+		}
+
+		#res {
+			margin: 0 50%;
+		}
+		#submit{
+			margin: 0 30%;
+		}
+		
